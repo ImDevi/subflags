@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const file = code.slice(2);
 
       const img = document.createElement("img");
-      img.src = `flags/${folder}/${file}.png`;
+      img.src = `https://raw.githubusercontent.com/ImDevi/subflags/main/flags/${folder}/${file}.png`;
       img.alt = full;
       img.style.height = "1em";
       img.style.verticalAlign = "-0.12em";
