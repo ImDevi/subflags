@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-  const pattern = /%([a-zA-Z0-9]{4,20})%/g;
+  const pattern = /%([a-zA-Z0-9+_-]{4,20})%/g;
 
   function processTextNode(node) {
     const text = node.nodeValue;
