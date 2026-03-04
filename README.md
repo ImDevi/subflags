@@ -3,7 +3,7 @@
 </p>
 
 -----------------------------------------------------------------------------------------------
-**subflags** is a collection of over 100 different flag emojis* not featured in the standard
+**subflags** is a collection of over 500 different flag emojis* not featured in the standard
 UNICODE set. You can use every single one on your website as long as you add just **one line** to its
 HTML source code!
 
