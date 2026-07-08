@@ -15,6 +15,10 @@ Check the **wiki** for all installation and use instructions: https://github.com
 
 Flag credits
 -----------------------------------------------------------------------------------------------
-All images used as representations of emojis were taken from:
+Twemoji flags:
+- Copyright 2018 Twitter, Inc. and other contributors.
+Graphics licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+Other flags:
 - https://emoji.gg
 - https://discadia.com
